@@ -17,7 +17,7 @@ origins = [
 
 # set `<your-endpoint>` and `<your-key>` variables with the values from the Azure portal
 endpoint = "https://docs-reader-assignment.cognitiveservices.azure.com/"
-key = "42e9a2cb15a04ff2b8e2018fb0dc8516"
+key = ""
 
 app.add_middleware(
     CORSMiddleware,
